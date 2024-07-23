@@ -1,1 +1,1 @@
-Public faving URL=??
+Public facing URL=??
